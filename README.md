@@ -1,4 +1,4 @@
-# TodoList + MiniBlog + WeatheApp with Vue Js 3
+# TodoList + MiniBlog + WeatherApp with Vue Js 3
 
 ## Project setup
 ```
